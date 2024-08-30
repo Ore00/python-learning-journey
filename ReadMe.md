@@ -1,4 +1,3 @@
-```markdown
 # Python Learning Journey
 
 This repository contains Python code and projects that I have completed as part of the [FreeCodeCamp Python Course]([https://www.freecodecamp.org/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)). The code is developed and tested using the [Replit platform](https://replit.com/).
@@ -47,7 +46,4 @@ This repository is primarily for personal use, but if you have suggestions or im
 
 This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://opensource.org/license/mit)) file for details.
 
----
-
 **Happy Coding!**
-```
