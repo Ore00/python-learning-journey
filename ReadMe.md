@@ -44,6 +44,6 @@ This repository is primarily for personal use, but if you have suggestions or im
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://opensource.org/license/mit)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
 
 **Happy Coding!**
